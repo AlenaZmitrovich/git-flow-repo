@@ -6,4 +6,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #2a9edc;
+}
+
+.header {
+  width: 100%;
+  padding: 2rem;
+  background-color: #bb3fe1;
 }/*# sourceMappingURL=main.css.map */
